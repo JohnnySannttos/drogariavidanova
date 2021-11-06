@@ -20,6 +20,7 @@
             }
             #entrada {
                 width: 100%;
+                display: none;
             }
             .slide {
                 max-width: 100%;
